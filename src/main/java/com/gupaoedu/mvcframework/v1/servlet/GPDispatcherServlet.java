@@ -51,6 +51,7 @@ public class GPDispatcherServlet extends HttpServlet {
     }
 
     /**
+     * 【核心代码】~ 容器初始化
      *  ServletConfig servlet 容器用于在初始化期间将信息传递给 servlet 的 servlet 配置对象
      */
     @Override
